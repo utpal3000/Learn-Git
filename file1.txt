@@ -3,3 +3,5 @@ This is file one.
 This is header `<head></head>`
 
 This is title tag '<title></title>
+
+This is body '<body></body>
