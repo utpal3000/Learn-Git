@@ -4,3 +4,4 @@
 4. four bug fixed
 5. fix 5th bug
 6. Fix the sixth bug via bug fixing method.
+7. Fixing seventh bug using bug fixing method.
